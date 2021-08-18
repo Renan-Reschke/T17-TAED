@@ -3,7 +3,7 @@ package maua;
 public class TestHash {
     public static void main(String[] args) {
 
-        Integer[] tabKeys = new Integer[100];
+        Integer[] tabKeys = new Integer[20];
         for(int i=1; i<tabKeys.length; i++){
             tabKeys[i] = i;
         }
